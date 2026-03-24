@@ -1,0 +1,8 @@
+version: 2
+
+sources:
+  - name: raw_epl
+    project: no-ssg-gcp-miden-isnd
+    dataset: raw_epl
+    tables:
+      - name: pl_matches_raw
